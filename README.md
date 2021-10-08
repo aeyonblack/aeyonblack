@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aeyonblack you can call me Tanya.
+- 👋 Hi, I’m Tanya.
 - I build apps for Android 📱 and the Web 💻.
 - 🎮 I build games too. For fun.
 - 🤓 Third year Electrical Engineering and Computer Science.
